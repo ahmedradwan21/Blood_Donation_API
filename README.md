@@ -3,14 +3,13 @@
 ## Table of Contents
 
 1. [Steps](#Step-by-Step-Process)
-2. [Requirements](#requirements)
-3. [Implementation Details](#implementation-details)
-4. [How to Run](#how-to-run)
-5. [Additional Information](#additional-information)
-6. [Usage](#usage)
-7. [Contribution](#contribution)
-8. [Dependencies](#Dependencies)
-9. [Contact](#contact)
+2. [Implementation Details](#implementation-details)
+3. [How to Run](#how-to-run)
+4. [Additional Information](#additional-information)
+5. [Usage](#usage)
+6. [Contribution](#contribution)
+7. [Dependencies](#Dependencies)
+8. [Contact](#contact)
 
 
 
@@ -152,4 +151,4 @@ Feel free to customize the content based on your project's specific details and 
 
 ## Contact
 
-For any questions or feedback, feel free to contact me at [email@example.com](mailto:email@example.com).
+For any questions or feedback, feel free to contact me at [email@example.com](tara02664@gmail.com).
