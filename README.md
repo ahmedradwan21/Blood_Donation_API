@@ -52,7 +52,7 @@ This project aims to create a Django-based API for disease prediction using mach
 11. **Review and Update**
     - Regularly review and update the project, fix bugs, and incorporate new features if needed.
 
-12. **Feedback and Maintenance**
+12. **Feedback and Maintenance** 
     - Gather feedback from users and stakeholders to improve the project. Regularly maintain and update the project to ensure it stays up-to-date and performs optimally.
 
 
