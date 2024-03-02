@@ -25,7 +25,13 @@ SECRET_KEY = 'django-insecure-xgt7^l6m=ucn5b0dp5z#5-=*%pjywz+b59)$amr)%-@5(x=ewy
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+
+
+# ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'atr-tykl.onrender.com']
+
+# ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'django-ATR-API.com']
+
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'atr-tykl.onrender.com']
 
 
 # Application definition
